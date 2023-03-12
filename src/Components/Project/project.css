@@ -1,0 +1,10 @@
+.project {
+  height: calc(100% - 13%);
+  width: 100%;
+  display: flex;
+}
+
+.project img{
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,46 @@
+.about {
+  width: 100%;
+  display: flex;
+  display: flex;
+  flex-direction: column;
+}
+
+.imgContainerr{
+    width: 100%;
+    height: 100vh;
+}
+
+.imgContainerr img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.us{
+    text-align: center;
+}
+
+
+.paragraphContainer{
+    height: 100vh;
+    width: 100%;
+    padding: 0 13rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+
+
+.pppp {
+    margin-top: 50px;
+    font-family: "DM Sans", sans-serif;
+    line-height: 1.8;
+    font-weight: normal;
+}
+
+.h1{
+    font-family: "DM Sans", sans-serif;
+    line-height: 1.8;
+}
