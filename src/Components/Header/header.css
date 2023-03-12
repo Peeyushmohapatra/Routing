@@ -23,6 +23,11 @@
     display: flex;
 }
 
+.linkImg img{
+    height: 100%;
+    width: 68%;
+}
+
 
 .navbar{
     height: 100%;
